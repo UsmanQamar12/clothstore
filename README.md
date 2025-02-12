@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+Clothing E-Commerce Website built using programming languages/frameworks used, e.g., React, Node.js, etc. The platform allows users to browse, search, and purchase clothing items with a seamless shopping experience. It includes essential e-commerce features such as product listings, user authentication, a shopping cart, secure checkout, and payment integration.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
